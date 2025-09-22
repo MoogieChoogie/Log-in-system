@@ -1,6 +1,6 @@
 # Java Control Flow Practice Project
 
-Hi, this project is a check on how comfortable I am with very very very basic control flow statements in Java.
+Hi, this project is to check on how comfortable I am with very very very basic control flow statements in Java.
 
 ## About This Project
 - I am new to GitHub and still learning how to use it, I have no clue how to use this yet.
