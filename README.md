@@ -1,3 +1,9 @@
-Hi, this is just to check how comfortable I am with very very basic control flow statements in java.
-I have no clue how to use github yet and what README is for.
-For context, I did not think about the code by myself. I asked ChatGPT to give me a project so I could code it by myself, and also tell me how it should like like because I have no creativity e.g., Username: Password: and so on, but I coded everything without chatgpt's help and I also debugged it alone without external help. I did ask about the template and what project to do though.
+# Java Control Flow Practice Project
+
+Hi, this project is a check on how comfortable I am with very very very basic control flow statements in Java.
+
+## About This Project
+- I am new to GitHub and still learning how to use it, I have no clue how to use this yet.
+- I didn't originally think about the code by myself; I asked ChatGPT gave me a project idea.
+- ChatGPT also helped me with how the code should look; I asked him to give me a template (e.g., How it should like like when ran the code is finished but not how it's coded).
+- I coded everything myself and debugged it without external help :)
